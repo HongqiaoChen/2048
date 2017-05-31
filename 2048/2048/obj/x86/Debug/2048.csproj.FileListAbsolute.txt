@@ -1,0 +1,7 @@
+C:\Users\陈泓桥\Documents\Visual Studio 2010\Projects\2048\2048\bin\Debug\2048.exe
+C:\Users\陈泓桥\Documents\Visual Studio 2010\Projects\2048\2048\bin\Debug\2048.pdb
+C:\Users\陈泓桥\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\陈泓桥\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\_2048.Properties.Resources.resources
+C:\Users\陈泓桥\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.csproj.GenerateResource.Cache
+C:\Users\陈泓桥\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.exe
+C:\Users\陈泓桥\Documents\Visual Studio 2010\Projects\2048\2048\obj\x86\Debug\2048.pdb
